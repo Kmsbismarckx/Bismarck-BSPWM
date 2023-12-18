@@ -1,0 +1,5 @@
+configuration {
+    font: "IBM Plex Mono 11";
+    show-icons: true;
+	icon-theme: "Papirus";
+}
